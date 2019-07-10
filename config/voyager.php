@@ -196,7 +196,7 @@ return [
     ],
 
     'googlemaps' => [
-         'key'    => env('GOOGLE_MAPS_KEY', ''),
+         'key'    => 'AIzaSyA_9_rGQA5E1h8BvDtPINs_zEj9hO_ryyg',
          'center' => [
              'lat' => env('GOOGLE_MAPS_DEFAULT_CENTER_LAT', '-1.9536'),
              'lng' => env('GOOGLE_MAPS_DEFAULT_CENTER_LNG', '30.0606'),
