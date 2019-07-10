@@ -21,7 +21,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/voyager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3843" />
+            <state relative-caret-position="357">
+              <caret line="200" column="70" selection-start-line="200" selection-start-column="70" selection-end-line="200" selection-end-column="70" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -29,6 +31,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/voyager.php" />
+      </list>
+    </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -197,12 +206,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562781083696</updated>
-      <workItem from="1562781084845" duration="2025000" />
+      <workItem from="1562781084845" duration="3545000" />
     </task>
+    <task id="LOCAL-00001" summary="Add new default ...">
+      <created>1562796032182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562796032182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2025000" />
+    <option name="totallyTimeSpent" value="3545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="28" width="1928" height="1056" extended-state="6" />
@@ -232,6 +249,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new default ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new default ..." />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.env">
       <provider selected="true" editor-type-id="text-editor">
@@ -242,7 +263,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/voyager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3843" />
+        <state relative-caret-position="357">
+          <caret line="200" column="70" selection-start-line="200" selection-start-column="70" selection-end-line="200" selection-end-column="70" />
+        </state>
       </provider>
     </entry>
   </component>
